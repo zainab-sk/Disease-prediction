@@ -53,7 +53,7 @@ Follow these steps to download and run the project:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/disease-prediction.git
+git clone https://github.com/zainab-sk/Disease-prediction.git
 cd disease-prediction
 ```
 2️⃣ Create a Virtual Environment
